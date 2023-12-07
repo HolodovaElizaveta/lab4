@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://cojo.ru/wp-content/uploads/2022/12/fon-dlia-saita-8.webp);
+} 
+
+.nav{
+   
+    margin: 0 auto;
+    max-width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 3ch;
+}
+.nav h3{
+    color: aliceblue;
+}
+.btn{
+    margin-top: 10px;
+    
+    background-color: aliceblue;
+    border: 4px solid LightSkyBlue;
+    font-size: 3ch;
+    border-radius: 17%;
+  
+}
